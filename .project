@@ -3,6 +3,7 @@
 	<name>ARLOCEJB</name>
 	<comment></comment>
 	<projects>
+		<project>ARLOC</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
